@@ -7,7 +7,7 @@ import java.util.Arrays;
  * This class ...
  *
  * @author   Ricardo Rodrigues
- * @version  0.9.7
+ * @version  0.9.9
  */
 public class Chunk {
   private String type = null;
